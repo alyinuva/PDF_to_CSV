@@ -20,8 +20,7 @@ pip install -r requirements.txt
 ## Uso
 Para ejecutar el script, navega hasta el directorio del proyecto y ejecuta:
 
-python your_script_name.py
-Reemplaza your_script_name.py con el nombre real de tu script de Python.
+python facturas_a_csv.py
 
 ## Funcionalidad
 El script procesa archivos PDF para extraer información como detalles del proveedor, números RUC, números de serie, montos totales y fechas de emisión de las facturas.
